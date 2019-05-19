@@ -197,6 +197,8 @@ GameObject:
   - component: {fileID: 1376354494764430802}
   - component: {fileID: 8031101185630110963}
   - component: {fileID: 1376354494764430815}
+  - component: {fileID: 1376354494957082349}
+  - component: {fileID: 2359859357267967450}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -421,6 +423,51 @@ MonoBehaviour:
       m_TypeName: SWNetwork.SWSyncedPropertyInitialFetchFinishedEvent, SWNetwork,
         Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   restoreState: 1
+--- !u!114 &1376354494957082349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376354494764430814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 926a35604098641a48c502b0d9df87a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  teleportDistance: 10
+--- !u!114 &2359859357267967450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376354494764430814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 202338497, guid: 6a67afbfe15ab9c4696e982c25d07a84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  remoteEvents_:
+  - eventName: Teleport
+    Foldout: 1
+    excludeSelf: 0
+    remoteEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1376354494957082349}
+          m_MethodName: Teleport
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+      m_TypeName: SWNetwork.SWRPCEvent, SWNetwork, Version=1.0.0.0, Culture=neutral,
+        PublicKeyToken=null
 --- !u!1 &5577242772838315746
 GameObject:
   m_ObjectHideFlags: 0
