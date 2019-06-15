@@ -1,4 +1,9 @@
 # Quick Start Tutorial
+YouTube Video Tutorial
+Part 1: https://youtu.be/nkHFrBseX8o
+Part 2: https://youtu.be/oXCRmHw2D0c
+Part 3: https://youtu.be/W22WAR8_wuc
+
 
 ## Requirements
 1. Unity 2.18.3.4 or later. You can download the latest version of Unity here: https://unity3d.com/get-unity/download
