@@ -1,9 +1,5 @@
 # Quick Start Tutorial
 YouTube Video Tutorial
-Part 1: https://youtu.be/nkHFrBseX8o
-Part 2: https://youtu.be/oXCRmHw2D0c
-Part 3: https://youtu.be/W22WAR8_wuc
-
 
 ## Requirements
 1. Unity 2.18.3.4 or later. You can download the latest version of Unity here: https://unity3d.com/get-unity/download
@@ -11,14 +7,14 @@ Part 3: https://youtu.be/W22WAR8_wuc
 
 > All accounts get 20GB of data for **FREE** every month. 
 
-## Part 1
+## Part 1 https://youtu.be/nkHFrBseX8o
 How to set up the SocketWeaver SDK in your Unity project. 
 How to use the SocketWeaver RealTimeAgent to synchronize player's position across the network.
 
-## Part 2
+## Part 2 https://youtu.be/oXCRmHw2D0c
 How to use the SyncPropertyAgent to update player's models.
 
-## Part 3
+## Part 3 https://youtu.be/W22WAR8_wuc
 How to use the RemoteEventAgent to synchronize the teleport action of players.
 
 ## Community
