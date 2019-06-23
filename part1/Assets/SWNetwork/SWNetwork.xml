@@ -920,9 +920,9 @@
             <param name="prefabIndex">Prefab index.</param>
             <param name="spawnPointIndex">Spawn point index.</param>
         </member>
-        <member name="M:SWNetwork.SceneSpawner.SpanwForNonPlayer(System.Int32,System.Int32)">
+        <member name="M:SWNetwork.SceneSpawner.SpawnForNonPlayer(System.Int32,System.Int32)">
             <summary>
-            Spanws networked GameObject for non-player.
+            Spawns networked GameObject for non-player.
             </summary>
             <param name="prefabIndex">Prefab index.</param>
             <param name="spawnPointIndex">Spawn point index.</param>
@@ -934,9 +934,9 @@
             <param name="prefabIndex">Prefab index.</param>
             <param name="position">Position.</param>
         </member>
-        <member name="M:SWNetwork.SceneSpawner.SpanwForNonPlayer(System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion)">
+        <member name="M:SWNetwork.SceneSpawner.SpawnForNonPlayer(System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion)">
             <summary>
-            Spanws networked GameObject for non-player.
+            Spawns networked GameObject for non-player.
             </summary>
             <param name="prefabIndex">Prefab index.</param>
             <param name="position">Position.</param>
