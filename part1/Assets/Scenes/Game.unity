@@ -254,6 +254,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 0
+  dynamicallySpawned: 1
+  fixedNetworkObjectId: 1
+  showVisibleGizmo: 1
+  Filterable: 0
+  SendRealtimeData: 1
+  visibleSize: 1
 --- !u!4 &272368713
 Transform:
   m_ObjectHideFlags: 0
@@ -432,6 +438,11 @@ PrefabInstance:
     - target: {fileID: 1376354494764430813, guid: 463b7f658c1fe41b4a9540f61fe30645,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376354494764430803, guid: 463b7f658c1fe41b4a9540f61fe30645,
+        type: 3}
+      propertyPath: type
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
