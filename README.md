@@ -18,7 +18,7 @@ How to use the SyncPropertyAgent to update player's models.
 How to use the RemoteEventAgent to synchronize the teleport action of players.
 
 ## Community
-If you have questions about the tutorial, join our discourse forum at: https://discourse.socketweaver.com
+If you have questions about the tutorial, join our discord server at: https://discord.gg/qXt7Bkf
 
 <div >
 <a href="https://www.socketweaver.com"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://sw-router.sfo2.cdn.digitaloceanspaces.com/landing/logo-dark-text-300.png" height="30px" alt="Home"></a>
