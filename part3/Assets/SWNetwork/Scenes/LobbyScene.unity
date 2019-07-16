@@ -223,9 +223,6 @@ MonoBehaviour:
   LoggingLevel: 3
   API_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Y2Q1Nzk3YzFhMmY1ZTAwMTExOWRlMzAiLCJzdGFnZSI6MTU1NzQ5NDE0MDg5MCwiaWF0IjoxNTU3NDk0MTQwfQ.T0WPJRd7VmZh8pHNlPrEByz1oIiI7cvgtJky0jzO4qo
   LogFilePath: 
-  LobbyName: 
-  NodeRegion1: 
-  NodeRegion2: 
 --- !u!4 &216403692
 Transform:
   m_ObjectHideFlags: 0
